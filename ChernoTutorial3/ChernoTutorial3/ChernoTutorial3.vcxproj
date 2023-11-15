@@ -130,8 +130,11 @@
     <ClCompile Include="Arrays.cpp" />
     <ClCompile Include="ChernoTutorial3.cpp" />
     <ClCompile Include="Const.cpp" />
+    <ClCompile Include="InstantiatingObjects.cpp" />
+    <ClCompile Include="Mutables.cpp" />
     <ClCompile Include="StringLiterals.cpp" />
     <ClCompile Include="Strings.cpp" />
+    <ClCompile Include="Ternary.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />

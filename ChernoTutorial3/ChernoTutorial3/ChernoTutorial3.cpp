@@ -6,6 +6,9 @@ int main()
     //ArrayMain();
     //StringMain();
     //StringLiteralMain();
-    ConstMain();
+    //ConstMain();
+    //MutableMain();
+    //TernaryMain();
+    InstantiatingObjectsMain();
     std::cin.get();
 }
