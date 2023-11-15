@@ -15,26 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ChernoTutorial2.cpp">
+    <ClCompile Include="ChernoTutorial3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Constructors.cpp">
+    <ClCompile Include="Arrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Destructors.cpp">
+    <ClCompile Include="Strings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Inheritance.cpp">
+    <ClCompile Include="StringLiterals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="VirtualFunctions.cpp">
+    <ClCompile Include="Const.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ConstructorIntializationList.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Visibility.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

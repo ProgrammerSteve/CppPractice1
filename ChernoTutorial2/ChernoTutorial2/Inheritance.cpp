@@ -34,6 +34,7 @@ public:
 
 
 //There are three types of inheritance in c++: public, private, and protected
+//The keyword for type of inheritance is called access specifiers (public, protected, private)
 //In this case, we are using public, where Entity4 is the base class and Player the derived class
 // 
 // 
