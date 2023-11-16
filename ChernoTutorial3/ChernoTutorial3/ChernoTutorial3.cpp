@@ -9,6 +9,8 @@ int main()
     //ConstMain();
     //MutableMain();
     //TernaryMain();
-    InstantiatingObjectsMain();
+    //InstantiatingObjectsMain();
+    //NewKeyword();
+    ImplicitConversion();
     std::cin.get();
 }

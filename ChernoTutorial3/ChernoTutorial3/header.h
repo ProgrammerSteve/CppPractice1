@@ -6,3 +6,5 @@ int ConstMain();
 int MutableMain();
 int TernaryMain();
 int InstantiatingObjectsMain();
+void NewKeyword();
+void ImplicitConversion();
