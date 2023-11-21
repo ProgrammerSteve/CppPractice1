@@ -5,7 +5,12 @@
 #include "header.h"
 int main()
 {
-    OperatorOverloading();
+    //OperatorOverloading();
+    //ThisKeyword();
+    //ObjectLifetime();
+    SmartPointerFunction();
+    //CopyingAndCopyConstructors();
+    //ArrowOperator();
     std::cin.get();
 }
 

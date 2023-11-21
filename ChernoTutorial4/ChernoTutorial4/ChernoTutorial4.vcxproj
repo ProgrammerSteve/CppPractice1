@@ -127,8 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrowOperator.cpp" />
     <ClCompile Include="ChernoTutorial4.cpp" />
+    <ClCompile Include="CopyingAndCopyConstructors.cpp" />
+    <ClCompile Include="ObjectLifetime.cpp" />
     <ClCompile Include="OperatorOverloading.cpp" />
+    <ClCompile Include="SmartPointers.cpp" />
+    <ClCompile Include="ThisKeyword.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />
