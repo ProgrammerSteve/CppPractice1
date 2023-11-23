@@ -132,6 +132,7 @@
     <ClCompile Include="Constructors.cpp" />
     <ClCompile Include="Destructors.cpp" />
     <ClCompile Include="Inheritance.cpp" />
+    <ClCompile Include="Interfaces.cpp" />
     <ClCompile Include="VirtualFunctions.cpp" />
     <ClCompile Include="Visibility.cpp" />
   </ItemGroup>
