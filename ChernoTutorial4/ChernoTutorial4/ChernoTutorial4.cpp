@@ -8,9 +8,9 @@ int main()
     //OperatorOverloading();
     //ThisKeyword();
     //ObjectLifetime();
-    SmartPointerFunction();
+    //SmartPointerFunction();
     //CopyingAndCopyConstructors();
-    //ArrowOperator();
+    ArrowOperator();
     std::cin.get();
 }
 
