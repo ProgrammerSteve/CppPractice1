@@ -9,8 +9,8 @@ int main()
     //ThisKeyword();
     //ObjectLifetime();
     //SmartPointerFunction();
-    //CopyingAndCopyConstructors();
-    ArrowOperator();
+    CopyingAndCopyConstructors();
+    //ArrowOperator();
     std::cin.get();
 }
 
