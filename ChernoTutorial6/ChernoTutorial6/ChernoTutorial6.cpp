@@ -4,6 +4,8 @@
 int main()
 {
     //UsingLibraries();
-    DynamicLibraries();
+    //DynamicLibraries();
+    //MultipleReturnValues();
+    Templates();
     std::cin.get();
 }
