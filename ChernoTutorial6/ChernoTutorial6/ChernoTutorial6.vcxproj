@@ -142,6 +142,7 @@
     <ClCompile Include="ChernoTutorial6.cpp" />
     <ClCompile Include="DynamicLibraries.cpp" />
     <ClCompile Include="MultipleReturnValues.cpp" />
+    <ClCompile Include="StackHeapMemory.cpp" />
     <ClCompile Include="Templates.cpp" />
     <ClCompile Include="UsingLibraries.cpp" />
   </ItemGroup>
