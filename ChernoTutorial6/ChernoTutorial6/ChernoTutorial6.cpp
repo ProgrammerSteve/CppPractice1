@@ -7,6 +7,7 @@ int main()
     //DynamicLibraries();
     //MultipleReturnValues();
     //Templates();
-    StackHeapMemory();
+    //StackHeapMemory();
+    Macros();
     std::cin.get();
 }

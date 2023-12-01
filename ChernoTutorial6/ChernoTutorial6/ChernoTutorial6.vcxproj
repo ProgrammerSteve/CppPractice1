@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="ChernoTutorial6.cpp" />
     <ClCompile Include="DynamicLibraries.cpp" />
+    <ClCompile Include="Macros.cpp" />
     <ClCompile Include="MultipleReturnValues.cpp" />
     <ClCompile Include="StackHeapMemory.cpp" />
     <ClCompile Include="Templates.cpp" />

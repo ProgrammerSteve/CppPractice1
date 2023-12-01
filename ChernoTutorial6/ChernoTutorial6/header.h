@@ -4,3 +4,4 @@ void DynamicLibraries();
 void MultipleReturnValues();
 void Templates();
 void StackHeapMemory();
+void Macros();

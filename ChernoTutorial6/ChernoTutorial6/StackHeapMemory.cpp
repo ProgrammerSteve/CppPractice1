@@ -35,6 +35,17 @@ void StackHeapMemory()
 		int value2 = 2;
 	}
 
+	//The new word really just calls malloc, memory allocate,
+	//to allocate memory on the heap
+	//The program will maintain something called a freelist
+	//to keep track of memory that is available
+	//the new keyword returns a pointer to the memory
+	//If you ask for more memory that is available on the freelist
+	//the operating system will have to allocate more memory
+	//which is a heavy operation
+
+	//try to allocate on the stack whenever possible
+
 	//new keyword returns a pointer to where
 	//the memory is stored via the heap
 	//we dereference the pointer and set it to 5
