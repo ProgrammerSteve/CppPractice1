@@ -8,6 +8,7 @@ int main()
     //MultipleReturnValues();
     //Templates();
     //StackHeapMemory();
-    Macros();
+    //Macros();
+    Auto();
     std::cin.get();
 }

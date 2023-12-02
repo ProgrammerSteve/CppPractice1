@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Auto.cpp" />
     <ClCompile Include="ChernoTutorial6.cpp" />
     <ClCompile Include="DynamicLibraries.cpp" />
     <ClCompile Include="Macros.cpp" />

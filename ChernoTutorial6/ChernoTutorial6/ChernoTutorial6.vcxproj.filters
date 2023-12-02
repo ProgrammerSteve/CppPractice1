@@ -36,6 +36,9 @@
     <ClCompile Include="Macros.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Auto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
